@@ -8,10 +8,10 @@ Budgetary is designed to help you manage your budget. You can add your income an
 ### Features
 
 Add income/expenses to the list
-![Budgetary](/Budgetary/img/Budgetary-budget.png)
+![Budgetary](/img/Budgetary-budget.png)
 
 Hover over item and access to delete and/or edit button
-![Edit/Delete](/Budgetary/img/Budgetary-edit-delete.png)
+![Edit/Delete](/img/Budgetary-edit-delete.png)
 
 ### Development
 
